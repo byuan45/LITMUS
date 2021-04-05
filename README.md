@@ -1,0 +1,1 @@
+Basic README for LITMUS project using React to show COVID-19 trends in the United States.
